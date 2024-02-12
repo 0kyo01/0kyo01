@@ -1,9 +1,9 @@
-- 👋 Hi, I’m kyo
+- 👋 Hi, I’m amir mohammad aghaei but you can call me kyo
 - 👀 I’m interested in anime art & tech world
 - 🌱 I’m currently learning 
 - 📫 How to reach me IG @kyodanah
-- 😄 Pronouns: im man of god
-- ⚡ Fun fact: i hate pop music
+  
+![unnamed](https://github.com/0kyo01/0kyo01/assets/159122455/64fdbfdd-20fa-4c25-9262-0c0793dd4536)
 
 <!---
 0kyo01/0kyo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
